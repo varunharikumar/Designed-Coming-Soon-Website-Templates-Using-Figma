@@ -2,7 +2,6 @@
 
  Designed Coming Soon Website Templates Using Figma
 
-<br>
 
 ### Support or Contact
 
