@@ -3,15 +3,12 @@
  Designed Coming Soon Website Templates Using Figma
 
 <br>
-<br>
 
 ### Support or Contact
 
 Having trouble with Pages? Please [send a request](https://varunharikumar.com/lets-talk.php) or contact my email address : hello@varunharikumar.com and I’ll help you sort it out.
 
 <br>
-<br>
-
 
 <table>
   <tbody>
